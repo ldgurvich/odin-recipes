@@ -1,0 +1,20 @@
+/* style.css */
+
+img {
+    height: 500px;
+    width: auto;
+}
+
+* {
+    color:rgb(55, 70, 47)
+}
+
+h1, h2 {
+    font-family: "Monaco", monospace;
+    background-color: rgb(168, 182, 159);
+    color: white;
+}
+
+a {
+    color: rgb(7, 138, 131);
+}
